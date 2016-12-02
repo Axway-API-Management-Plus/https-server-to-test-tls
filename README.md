@@ -12,7 +12,7 @@ This artefact can be used with every API Management Plus version
 ## Usage
 ```python pyhttpsserv.py```
 Listen on port 8443 and list all files of the directory where the script is submitted
-  
+For tests without TLS, just submit ```python –m http.server```
    
 ## Bug and Caveats
 Nothing identified
